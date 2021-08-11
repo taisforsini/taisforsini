@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## If you want to see some of my projects, check:
+## These are some of my projects:
 [Pong](https://github.com/taisforsini/pong-game)
 
 [My Calendar](https://github.com/taisforsini/my-calendar)
@@ -18,24 +18,24 @@
 
 ## My Stack
 
-### Languages:
+### Front-end:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-
-### Application and Data:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+
+### Back-end:
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### Version control:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
 ### Utilities:
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-### DevOps:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
 ## GitHub Stats
 
