@@ -39,8 +39,8 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!---
 ## GitHub Stats
-
 [![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=taisforsini&theme=synthwave&show_icons=true)](https://github.com/taisforsini/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisforsini&theme=synthwave&layout=compact)](https://github.com/taisforsini/github-readme-stats)
-
+-->
