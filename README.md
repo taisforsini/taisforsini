@@ -6,6 +6,7 @@
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<!---
 <br>
 <br>
 
@@ -16,6 +17,8 @@
 
 [Trippers](https://github.com/taisforsini/trippers-client)
 
+
+<!---
 ## My Stack
 
 ### Front-end:
